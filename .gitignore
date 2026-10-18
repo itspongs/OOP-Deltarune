@@ -1,0 +1,6 @@
+# Java bytecode - never commit compiled output
+*.class
+# Build output folders (if you compile with javac -d)
+out/
+bin/
+build/
